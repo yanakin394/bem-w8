@@ -1,0 +1,42 @@
+.main--h2 {
+    width: 542px;
+    height: 72px;
+    left: 125px;
+    top: 218px;
+    font-family: 'Intro ';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 120%;
+    color: #000000;
+}
+
+.button {
+    background: #5222D0;
+    border-radius: 100px;
+}
+
+.header__img {
+    float: left;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+.text {
+    border: 1px red solid;
+}
+
+.main__news {
+    background: #EC615B;
+    height: 180px;
+}
+
+.form__input {
+    border: none;
+}
+
+.games {
+    border: 1px red solid;
+}
